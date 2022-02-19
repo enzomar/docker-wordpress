@@ -12,3 +12,5 @@ Run a wordpress store locally.
 - [Quickstart: Compose and WordPress](https://docs.docker.com/samples/wordpress/)
 
 https://dev.to/daniloab/how-to-run-wordpress-woocommerce-locally-with-docker-42cd
+https://www.wpbeginner.com/plugins/how-to-create-a-product-catalog-in-wordpress-without-a-shopping-cart/
+
