@@ -10,3 +10,5 @@ Run a wordpress store locally.
 - [Adding and Managing Products](https://docs.woocommerce.com/document/managing-products/)
 - [Docker Commands](https://gist.github.com/daniloab/dbea32701e323975bf2d4d51a48f33b5)
 - [Quickstart: Compose and WordPress](https://docs.docker.com/samples/wordpress/)
+
+https://dev.to/daniloab/how-to-run-wordpress-woocommerce-locally-with-docker-42cd
